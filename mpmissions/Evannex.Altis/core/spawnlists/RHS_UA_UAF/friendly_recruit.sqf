@@ -1,0 +1,13 @@
+[
+	"b_afougf_medic",
+	"b_afougf_makrsman_svdm",
+	"b_afougf_rifleman_at4_heat",
+	"b_afougf_rifleman_rpg26",
+	"b_afougf_pt_rpg7",
+	"b_afougf_pt_nlaw",
+	"b_afougf_pt_fgm148",
+	"b_afougf_makrsman_m82",
+	"b_afougf_mg_pkm",
+	"b_afougf_aa_stinger_specialist",
+	"b_afougf_mg_mg42"
+]

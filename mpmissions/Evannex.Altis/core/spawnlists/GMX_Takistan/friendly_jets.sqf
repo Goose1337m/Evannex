@@ -1,0 +1,9 @@
+[
+	"gmx_tak_airforce_do28d2_des",
+	"gmx_tak_airforce_l410t_des",
+	"gmx_tak_army_mi2urpg_des",
+	"gmx_tak_army_mi2urs_des",
+	"gmx_tak_army_mi2us_des",
+	"gmx_tak_army_mi2urp_des",
+	"gmx_tak_army_mi2urn_des"
+];

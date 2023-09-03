@@ -1,0 +1,11 @@
+[
+	"gmx_chdkz_army_antitank_akm_rpg7_mix",
+	"gmx_chdkz_army_antiair_akm_9k32m_mix",
+	"gmx_chdkz_army_marksman_svd_mix",
+	"gmx_chdkz_army_machinegunner_pk_mix",
+	"gmx_chdkz_army_rifleman_akm_mix",
+	"gmx_chdkz_army_demolition_akm_mix",
+	"gmx_chdkz_army_medic_akm_mix",
+	"gmx_chdkz_army_machinegunner_rpk_mix",
+	"gmx_chdkz_army_grenadier_akm_pallad_mix"
+]

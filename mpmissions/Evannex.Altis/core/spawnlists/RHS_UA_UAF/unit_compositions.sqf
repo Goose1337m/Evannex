@@ -1,0 +1,13 @@
+[
+	[
+		"b_bafougf_infantry_supportteam_igla",
+		"b_bafougf_infantry_supportteam_javelin",
+		"b_bafougf_infantry_supportteam_nlaw",
+		"b_bafougf_infantry_supportteam_rpg",
+		"b_bafougf_infantry_supportteam_mg",
+		"b_bafougf_infantry_supportteam_stinger"	
+	],
+	[
+		"b_bafousf_specops_fireteam"	
+	]
+];
