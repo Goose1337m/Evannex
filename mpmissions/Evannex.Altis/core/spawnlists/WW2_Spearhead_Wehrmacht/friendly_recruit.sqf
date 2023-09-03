@@ -1,0 +1,19 @@
+[
+	"SPE_GER_LAT_Rifleman",
+	"SPE_GER_Assist_SquadLead",
+	"SPE_GER_mgunner",
+	"SPE_GER_mgunner2",
+	"SPE_GER_stggunner",
+	"SPE_GER_LAT_Klein_Rifleman",
+	"SPE_GER_medic",
+	"SPE_GER_sapper",
+	"SPE_GER_LAT_30m_Rifleman",
+	"SPE_GER_Flamethrower_Operator",
+	"SPE_GER_scout_SquadLead",
+	"SPE_GER_scout_Assist_SquadLead",
+	"SPE_GER_ober_rifleman",
+	"SPE_GER_scout_sniper",
+	"SPE_GER_scout_mgunner",
+	"SPE_GER_scout_ober_grenadier",
+	"SPE_GER_scout_Assist_SquadLead"
+];

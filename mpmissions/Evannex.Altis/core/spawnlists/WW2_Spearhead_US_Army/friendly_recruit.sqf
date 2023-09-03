@@ -1,0 +1,20 @@
+[
+	"SPE_US_AT_Soldier",
+	"SPE_US_Engineer",
+	"SPE_US_Medic",
+	"SPE_US_HMGunner",
+	"SPE_US_Sniper",
+	"SPE_US_Grenadier",
+	"SPE_US_Flamethrower_Operator",
+	"SPE_US_Rifleman",
+	"SPE_US_Autorifleman",
+	"SPE_US_Rifleman_AmmoBearer",
+	"SPE_US_Rangers_AT_soldier",
+	"SPE_US_Rangers_HMGunner",
+	"SPE_US_Rangers_Autorifleman",
+	"SPE_US_Rangers_medic",
+	"SPE_US_Rangers_Flamethrower_Operator",
+	"SPE_US_Rangers_engineer",
+	"SPE_US_Rangers_sniper",
+	"SPE_US_Rangers_SquadLead"
+];

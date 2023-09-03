@@ -1,0 +1,14 @@
+[
+	[
+		"SPE_US_AT_Squad",
+		"SPE_US_Scout_Squad",
+		"SPE_US_Infantry_Squad"
+	],
+	[
+		"SPE_US_Ranger_Assault_Engineer_Squad",
+		"SPE_US_Ranger_scout_squad",
+		"SPE_US_Rangers_Assault_Section",
+		"SPE_US_Rangers_AT_squad",
+		"SPE_US_Rangers_Assault_Section_BAR"
+	]
+];

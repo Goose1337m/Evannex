@@ -1,0 +1,17 @@
+[
+	"SPE_sturmtrooper_Assist_SquadLead",
+	"SPE_sturmtrooper_LAT_30m_Rifleman",
+	"SPE_sturmtrooper_LAT_Klein_Rifleman",
+	"SPE_sturmtrooper_Flamethrower_Operator",
+	"SPE_sturmtrooper_sniper",
+	"SPE_sturmtrooper_stggunner",
+	"SPE_sturmtrooper_AT_grenadier",
+	"SPE_sturmtrooper_LAT_rifleman",
+	"SPE_sturmtrooper_mgunner2",
+	"SPE_sturmtrooper_mgunner",
+	"SPE_sturmtrooper_rifleman",
+	"SPE_sturmtrooper_sapper",
+	"SPE_sturmtrooper_medic",
+	"SPE_sturmtrooper_ober_rifleman",
+	"SPE_sturmtrooper_amgunner"
+]

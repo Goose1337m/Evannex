@@ -1,0 +1,14 @@
+[
+	"SPE_ST_SdKfz250_1",
+	"SPE_ST_OpelBlitz_Flak38",
+	"SPE_ST_OpelBlitz_Repair",
+	"SPE_ST_OpelBlitz_Ambulance",
+	"SPE_ST_OpelBlitz_Fuel",
+	"SPE_ST_OpelBlitz_Ammo",
+	"SPE_ST_PzKpfwIII_J",
+	"SPE_ST_PzKpfwIII_L",
+	"SPE_ST_PzKpfwIII_M",
+	"SPE_ST_PzKpfwIII_N",
+	"SPE_ST_PzKpfwIV_G",
+	"SPE_ST_PzKpfwVI_H1"
+];

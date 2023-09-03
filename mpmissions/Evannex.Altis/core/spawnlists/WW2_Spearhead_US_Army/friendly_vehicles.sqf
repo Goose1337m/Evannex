@@ -1,0 +1,15 @@
+[
+	"SPE_M10",
+	"SPE_M18_Hellcat",
+	"SPE_M4A0_75_Early",
+	"SPE_M4A0_75",
+	"SPE_M4A1_76",
+	"SPE_M4A1_75",
+	"SPE_M4A1_T34_Calliope_Direct",
+	"SPE_US_M16_Halftrack",
+	"SPE_US_M3_Halftrack_Ambulance",
+	"SPE_US_M3_Halftrack_Ammo",
+	"SPE_US_M3_Halftrack_Fuel",
+	"SPE_US_M3_Halftrack_Repair",
+	"SPE_US_M3_Halftrack"
+];

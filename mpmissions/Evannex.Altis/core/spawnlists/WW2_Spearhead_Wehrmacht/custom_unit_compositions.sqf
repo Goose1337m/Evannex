@@ -1,0 +1,13 @@
+[
+	[
+		"SPE_GER_scout_SquadLead",
+		"SPE_GER_LAT_Klein_Rifleman",
+		"SPE_GER_LAT_Klein_Rifleman",
+		"SPE_GER_LAT_Klein_Rifleman",
+		"SPE_GER_mgunner2",
+		"SPE_GER_scout_Assist_SquadLead",
+		"SPE_GER_stggunner",
+		"SPE_GER_stggunner",
+		"SPE_GER_stggunner"
+	]
+];
