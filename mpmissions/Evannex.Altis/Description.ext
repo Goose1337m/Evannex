@@ -1,5 +1,5 @@
 title = "Evannex";
-author = "Bradenm1";
+author = "Bradenm1. Edited by Goose1337";
 onLoadName = "Evannex";
 onLoadMission = "An AI vs AI gamemode";
 loadScreen = "textures\mission_thumbnail.paa";
@@ -13,9 +13,10 @@ minPlayerDistance = 50;
 wreckManagerMode = 1;
 wreckLimit = 10;
 wreckRemovalMinTime = 15;
+wreckRemovalMaxTime = 90;
 briefing = -1;
 
-reviveMode = 1;
+reviveMode = 0;
 aiKills = 1;
 enableItemsDropping = 0;
 
@@ -31,28 +32,30 @@ class Header {
 };
 
 // Server params
+
 class Params {
-    class FriendlyFaction {
+
+	class FriendlyFaction {
         title = "Friendly Faction";
-        values[] = {0,1,2,3,4,5};
-        texts[] = {"BLU_F", "OPF_F", "RHSUSAF", "RHSAFRF", "RHSSAF", "RHSGREF"};
-        default = 0;
+        values[] = {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67};
+        texts[] = {"A3_AAF", "A3_CSAT_Arid", "A3_CSAT_Spetsnaz", "A3_CSAT_Tropic", "A3_FIA", "A3_LDF", "A3_NATO_Arid", "A3_NATO_Tropic", "A3_NATO_Woodland", "A3_Syndikat", "CSLA_AFMC", "CSLA_CSLA", "CSLA_FIA", "CSLA_US", "CUP_CDF", "CUP_RACS", "CUP_RUS_Arid", "CUP_RUS_Woodland", "CUP_SLA", "CUP_Takistan", "CUP_US_Arid", "CUP_US_Woodland", "FFAA", "GMX_AAF", "GMX_CDF", "GMX_CDF2020", "GMX_ChDkZ", "GMX_Takistan", "GM_Bundeswehr_Arid", "GM_Bundeswehr_Winter", "GM_Bundeswehr_Woodland", "GM_Denmark_Arid", "GM_Denmark_Winter", "GM_Denmark_Woodland", "GM_NVA_Arid", "GM_NVA_Winter", "GM_NVA_Woodland", "GM_POL_Arid", "GM_POL_Winter", "GM_POL_Woodland", "GM_Revolutionaries_Arid", "GM_Revolutionaries_Winter", "GM_Revolutionaries_Woodland", "RHSAFRF_Arid", "RHSAFRF_Woodland", "RHSGREF", "RHSSAF", "RHSUSAF_Arid", "RHSUSAF_Woodland", "RHS_UA_UAF", "SOGPF_ARVN", "SOGPF_FANK", "SOGPF_Khmer_Rouge", "SOGPF_MACV", "SOGPF_PathetLao", "SOGPF_PAVN", "SOGPF_USMC", "SOGPF_Viet_Cong", "Western_Sahara_ION", "Western_Sahara_NATO", "Western_Sahara_SFIA", "Western_Sahara_Tura", "Western_Sahara_UNA", "WW2_Spearhead_French_Interior_Forces", "WW2_Spearhead_French_Liberation_Army", "WW2_Spearhead_Stormtroopers", "WW2_Spearhead_US_Army", "WW2_Spearhead_Wehrmacht"};
+        default = 6;
     };
     class EnemyFaction {
         title = "Enemy Faction";
-        values[] = {0,1,2,3,4,5};
-        texts[] = {"BLU_F", "OPF_F", "RHSUSAF", "RHSAFRF", "RHSSAF", "RHSGREF"};
+        values[] = {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67};
+        texts[] = {"A3_AAF", "A3_CSAT_Arid", "A3_CSAT_Spetsnaz", "A3_CSAT_Tropic", "A3_FIA", "A3_LDF", "A3_NATO_Arid", "A3_NATO_Tropic", "A3_NATO_Woodland", "A3_Syndikat", "CSLA_AFMC", "CSLA_CSLA", "CSLA_FIA", "CSLA_US", "CUP_CDF", "CUP_RACS", "CUP_RUS_Arid", "CUP_RUS_Woodland", "CUP_SLA", "CUP_Takistan", "CUP_US_Arid", "CUP_US_Woodland", "FFAA", "GMX_AAF", "GMX_CDF", "GMX_CDF2020", "GMX_ChDkZ", "GMX_Takistan", "GM_Bundeswehr_Arid", "GM_Bundeswehr_Winter", "GM_Bundeswehr_Woodland", "GM_Denmark_Arid", "GM_Denmark_Winter", "GM_Denmark_Woodland", "GM_NVA_Arid", "GM_NVA_Winter", "GM_NVA_Woodland", "GM_POL_Arid", "GM_POL_Winter", "GM_POL_Woodland", "GM_Revolutionaries_Arid", "GM_Revolutionaries_Winter", "GM_Revolutionaries_Woodland", "RHSAFRF_Arid", "RHSAFRF_Woodland", "RHSGREF", "RHSSAF", "RHSUSAF_Arid", "RHSUSAF_Woodland", "RHS_UA_UAF", "SOGPF_ARVN", "SOGPF_FANK", "SOGPF_Khmer_Rouge", "SOGPF_MACV", "SOGPF_PathetLao", "SOGPF_PAVN", "SOGPF_USMC", "SOGPF_Viet_Cong", "Western_Sahara_ION", "Western_Sahara_NATO", "Western_Sahara_SFIA", "Western_Sahara_Tura", "Western_Sahara_UNA", "WW2_Spearhead_French_Interior_Forces", "WW2_Spearhead_French_Liberation_Army", "WW2_Spearhead_Stormtroopers", "WW2_Spearhead_US_Army", "WW2_Spearhead_Wehrmacht"};
         default = 1;
     };
     class Time {
-		title = "Time";
+		title = "Time (hour)";
 		values[] = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24};
 		default = 12;
 	};
     class ViewDistance {
 		title = "View distance (in metres)";
 		values[] = {200,300,500,1000,1500,1600,2000,2500,3000,3500,4000,4500,5000,12000,40000};
-		default = 1600;
+		default = 2500;
 	};
     class AISkill {
 		title = "AI Skill"; // Param name visible in the list
@@ -64,7 +67,7 @@ class Params {
 	class NumberFriendlyGroups {
 		title = "Max Friendly Groups"; // Param name visible in the list
 		values[] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 17, 20, 25, 30, 40, 50, 100}; // Values; must be integers; has to have the same number of elements as 'texts'
-		default = 8; // Default value; must be listed in 'values' array, otherwise 0 is used
+		default = 3; // Default value; must be listed in 'values' array, otherwise 0 is used
 		// Default values that are not whole numbers do not work. Param will default to 0 (or 1 if defined)
 	};
 	class NumberEnemyGroups {
@@ -82,7 +85,7 @@ class Params {
 	class  MinEnemyGroupsForCapture {
 		title = "Minimum Enemy Groups For Zone Capture"; // Param name visible in the list
 		values[] = {0, 1, 2, 3, 4, 5, 10, 15, 20, 25, 30, 40, 50, 100}; // Values; must be integers; has to have the same number of elements as 'texts'
-		default = 3; // Default value; must be listed in 'values' array, otherwise 0 is used
+		default = 2; // Default value; must be listed in 'values' array, otherwise 0 is used
 		// Default values that are not whole numbers do not work. Param will default to 0 (or 1 if defined)
 	}
 	class  MinAIDistanceForDeleteion {
@@ -130,13 +133,13 @@ class Params {
         title = "Player Fatigue";
         values[] = {0,1};
         texts[] = {"Disabled","Enabled"};
-        default = 0;
+        default = 1;
     };
 	class Stamina {
         title = "Player Stamina";
         values[] = {0,1};
         texts[] = {"Disabled","Enabled"};
-        default = 0;
+        default = 1;
     };
 	class CustomAim {
         title = "More Steady Aim";
@@ -190,7 +193,7 @@ class Params {
         title = "Virutal Support";
         values[] = {0,1};
         texts[] = {"Disabled","Enabled"};
-        default = 0;
+        default = 1;
     };
     class FriendliesUseTransport {
         title = "Friendlies Use Transport";
@@ -215,18 +218,63 @@ class Params {
         values[] = {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20};
         texts[] = {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20};
         default = 8;
-    }
+    };
+	class Timeacc {
+	title = "Time Acceleration";
+	values[] = {1,5,10,15,20,25,30,35,40,45,50,55,60};
+	texts[] = {"1x (1game min. = 1real min.)","5x","10x","15x","20x","25x","30x (1game min. = 2real sec.)","35x","40x","45x","50x","55x","60x (1game min. = 1real sec.)"};
+	default = 5;
+	function = "BIS_fnc_paramTimeAcceleration";
+	};
+	
+	
+	//#include "Params\paramTimeAcceleration.hpp"
+	
 
     //#define WEATHER_DEFAULT	25
     //#define DEBUGCONSOLE_DEFAULT 0
-    //#define TIMEACCELERATION_DEFAULT 1
+	//#define TIMEACCELERATION_DEFAULT  1
 
 	//#include "\a3\functions_f\Params\paramWeather.hpp"
 	//#include "\a3\functions_f\Params\paramDebugConsole.hpp"
 	//#include "\a3\Functions_F_MP_Mark\Params\paramTimeAcceleration.hpp"
 };
 
+	
 class CfgFunctions 
 { 
     #include "SBGF\cfgfunctions.hpp"
+	#include "AIS\cfgFunctions.hpp"
 };
+
+#include "Scripts\Fex_FastTravel\defines.hpp"
+#include "Scripts\Fex_FastTravel\dialogues.hpp"
+
+#include "Scripts\MagRepack\MagRepack_config.hpp"
+
+class CfgNotifications
+{
+	class JtacReloadNotification
+	{
+		title = "JTAC";
+		iconPicture = "a3\ui_f\data\gui\cfg\communicationmenu\call_ca.paa";
+		iconText = "1";
+		description = "%1";
+		color[] = {0.153, 0.933, 0.122, 1};
+		duration = 5;
+		priority = 0;
+		difficulty[] = {};
+	};
+}
+
+#include "AIS\Effects\BarDlg.hpp"
+
+
+
+
+
+
+
+
+
+
