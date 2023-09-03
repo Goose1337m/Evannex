@@ -1,0 +1,11 @@
+[
+	"gm_ge_army_antitank_g36a1_pzf3_90_flk",
+	"gm_ge_army_antiair_g36a1_fim43_90_flk",
+	"gm_ge_army_marksman_g3a3_90_flk",
+	"gm_ge_army_machinegunner_mg3_90_flk",
+	"gm_ge_army_engineer_g36a1_90_flk",
+	"gm_ge_army_paratrooper_g36a1_90_flk",
+	"gm_ge_army_pilot_p1_80_oli",
+	"gm_ge_army_medic_g3a3_80_ols",
+	"gm_ge_army_antitank_g3a3_pzf44_80_ols"
+]

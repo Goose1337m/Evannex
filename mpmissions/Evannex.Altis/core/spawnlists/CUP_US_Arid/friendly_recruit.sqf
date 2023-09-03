@@ -1,0 +1,10 @@
+[
+	"CUP_B_USMC_Soldier_AA_des",
+	"CUP_B_USMC_Soldier_HAT_des",
+	"CUP_B_USMC_Soldier_AT_des",
+	"CUP_B_USMC_Soldier_MG_des",
+	"CUP_B_USMC_Sniper_M107_des",
+	"CUP_B_USMC_Medic_des",
+	"CUP_B_USMC_Engineer_des",
+	"CUP_B_USMC_Soldier_Marksman_des"
+]

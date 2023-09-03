@@ -1,0 +1,13 @@
+[
+	[
+		"CUP_B_GB_Section_DDPM",
+		"CUP_B_GB_HAT_DDPM",
+		"CUP_B_GB_MG_DDPM"
+	],
+	[
+		"CUP_B_USMC_FireTeam_AT_DES",
+		"CUP_B_USMC_FRTeam_Desert",
+		"CUP_B_USMC_FireTeam_MG_DES",
+		"CUP_B_USMC_FRTeam_DA_Desert"
+	]
+];

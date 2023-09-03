@@ -1,0 +1,4 @@
+[
+	"CUP_B_MTVR_USA",
+	"CUP_B_nM1038_USMC_DES"
+]

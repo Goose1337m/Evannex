@@ -1,0 +1,19 @@
+[
+	"ffaa_et_toa_zapador",
+	"ffaa_et_toa_spike",
+	"ffaa_et_pizarro_mauser",
+	"ffaa_ar_piranhaIIIC_lance",
+	"ffaa_ar_piranhaIIIC",
+	"ffaa_et_vamtac_tow",
+	"ffaa_et_vamtac_mistral",
+	"ffaa_et_rg31_samson",
+	"ffaa_et_lince_m2",
+	"ffaa_famet_tigre",
+	"ffaa_ar_vamtac_st5_vsp_m2",
+	"ffaa_ar_vamtac_st5_vsp_lag40",
+	"ffaa_famet_tigre",
+	"ffaa_et_leopardo",
+	"ffaa_et_pegaso_repara_municion",
+	"ffaa_et_m250_combustible_blin",
+	"ffaa_et_pegaso_municion"
+];

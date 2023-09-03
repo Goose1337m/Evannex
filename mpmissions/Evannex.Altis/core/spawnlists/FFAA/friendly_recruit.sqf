@@ -1,0 +1,10 @@
+[
+	"ffaa_bripac_medico",
+	"ffaa_bripac_alcotan",
+	"ffaa_bripac_francotirador_barrett",
+	"ffaa_bripac_ingeniero",
+	"ffaa_bripac_tirador",
+	"ffaa_bripac_mg42",
+	"ffaa_bripac_mg4",
+	"ffaa_brilat_c90"
+]

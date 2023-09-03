@@ -1,0 +1,20 @@
+[
+	"CUP_B_Challenger2_Desert_BAF",
+	"CUP_B_M1A1FEP_Desert_USMC",
+	"CUP_B_M1128_MGS_Desert",
+	"CUP_B_M2A3Bradley_USA_D",
+	"CUP_B_MCV80_GB_D_SLAT",
+	"CUP_B_Boxer_GMG_GER_DES",
+	"CUP_B_M1167_DSRT_USMC",
+	"CUP_B_Wolfhound_GMG_GB_D",
+	"CUP_B_M1151_M2_DSRT_USMC",
+	"CUP_B_nM1038_Repair_USMC_DES",
+	"CUP_B_nM1038_Ammo_USMC_DES",
+	"CUP_B_nM997_USMC_DES",
+	"CUP_B_M6LineBacker_USA_D",
+	"CUP_B_Dingo_GL_GER_Des",
+	"CUP_B_AH64D_DL_USA",
+	"CUP_B_MH60L_DAP_4x_USN",
+	"CUP_B_AH1_DL_BAF",
+	"CUP_B_AH6M_USA"
+];

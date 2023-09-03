@@ -1,0 +1,9 @@
+[
+	[
+		"gm_ge_army_infantry_squad_parka_80_win",
+		"gm_ge_army_sf_infantry_specops_parka_80_win"
+	],
+	[
+		"gm_ge_army_infantry_squad_90_win"
+	]
+];
