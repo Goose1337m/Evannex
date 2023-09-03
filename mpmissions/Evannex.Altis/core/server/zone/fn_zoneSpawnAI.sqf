@@ -94,7 +94,7 @@ br_fnc_spawnAI = {
 					{ [_x] call fn_objectInitEvents; } forEach (crew _vehicle);
 					switch ((_vehicle call BIS_fnc_objectType) select 1) do {
 						case "Helicopter";
-						case "Plane": { _vehicle setPosASL [getPosASL _vehicle select 0, getPosASL _vehicle select 1, getTerrainHeightASL (position _vehicle) + 100 + random 500]; };
+						case "Plane": { _vehicle setPosASL [getPosASL _vehicle select 0, getPosASL _vehicle select 1, getTerrainHeightASL (position _vehicle) + 2200 + random 500]; };
 						case "Ship": {  
 							private _waterPos = [getMarkerPos "ZONE_RADIUS", 0, (br_zone_radius * 1.8) * sqrt br_max_radius_distance, 5, 2] call BIS_fnc_findSafePos;
 							if (count _waterPos != 3 && surfaceIsWater _waterPos) then {

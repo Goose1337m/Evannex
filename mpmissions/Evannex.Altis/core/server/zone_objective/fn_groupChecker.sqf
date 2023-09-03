@@ -20,5 +20,5 @@ While {TRUE} do {
 	if (_nDead >= count _groups) exitWith  {
 		FALSE;
 	};
-	sleep 30;
+	sleep 300;
 };
