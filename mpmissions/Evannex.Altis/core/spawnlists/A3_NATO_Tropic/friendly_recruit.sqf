@@ -1,0 +1,10 @@
+[
+	"B_CTRG_Soldier_M_tna_F",
+	"B_CTRG_Soldier_LAT_tna_F",
+	"B_CTRG_Soldier_LAT2_tna_F",
+	"B_T_Medic_F",
+	"B_T_Soldier_GL_F",
+	"B_T_Soldier_LAT_F",
+	"B_T_Engineer_F",
+	"B_T_soldier_M_F"
+]

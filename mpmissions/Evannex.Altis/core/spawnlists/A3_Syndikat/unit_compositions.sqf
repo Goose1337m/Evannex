@@ -1,0 +1,6 @@
+[
+	[
+		"BanditCombatGroup",
+		"ParaCombatGroup"
+	]
+];

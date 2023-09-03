@@ -1,0 +1,12 @@
+[
+	[
+		"AFMC_infSqd"
+	],
+	[
+		"AFMC_sfSqd"
+	],
+	[
+		"AFMC_abDtmt",
+		"AFMC_abSqd"
+	]
+];

@@ -1,0 +1,10 @@
+[
+	"B_Heli_Transport_03_F",
+	"B_Heli_Transport_03_unarmed_F",
+	"B_Heli_Transport_03_black_F",
+	"B_Heli_Transport_03_unarmed_green_F",
+	"B_CTRG_Heli_Transport_01_sand_F",
+	"B_CTRG_Heli_Transport_01_tropic_F",
+	"B_Heli_Transport_01_F",
+	"B_Heli_Transport_01_camo_F"
+];

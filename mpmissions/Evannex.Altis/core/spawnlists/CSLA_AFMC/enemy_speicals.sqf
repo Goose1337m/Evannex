@@ -1,0 +1,14 @@
+[
+	"AFMC_M163",
+	"AFMC_LAV25",
+	"AFMC_M113A1",
+	"AFMC_M923a",
+	"AFMC_M923f",
+	"AFMC_M923r",
+	"AFMC_M113A2_AMB",
+	"AFMC_M1A1",
+	"AFMC_M1IP",
+	"AFMC_AH1F",
+	"AFMC_M2h",
+	"AFMC_TOW_Stat"
+];

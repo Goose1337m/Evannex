@@ -1,0 +1,10 @@
+[
+	"CSLA_mrUK59",
+	"CSLA_mrMedi",
+	"CSLA_mrRPG75",
+	"CSLA_mr9K32",
+	"CSLA_mrRPG7",
+	"CSLA_mrOP63",
+	"CSLA_ptRPG75",
+	"CSLA_ptSa58Pp"
+]

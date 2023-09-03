@@ -1,0 +1,12 @@
+[
+	[
+		"CSLA_rSqd"
+	],
+	[
+		"CSLA_lrrSbtDtmt"
+	],
+	[
+		"CSLA_abDtmt",
+		"CSLA_abSqd"
+	]
+];

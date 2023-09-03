@@ -1,0 +1,9 @@
+[
+	"CSLA_T72",
+	"CSLA_OT65A",
+	"FIA_AZU_T21",
+	"FIA_AZU_DSKM",
+	"FIA_OT64C_VB",
+	"FIA_BTR40_DSKM",
+	"AFMC_M113A1"
+];

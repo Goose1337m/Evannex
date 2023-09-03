@@ -1,0 +1,9 @@
+[
+	[
+		"B_T_InfSquad_Weapons",
+		"B_T_InfSquad"
+	],
+	[	
+		"CTRG_InfSquad"
+	]
+];
