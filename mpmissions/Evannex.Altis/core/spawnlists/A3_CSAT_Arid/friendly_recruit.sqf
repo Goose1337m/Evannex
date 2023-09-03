@@ -1,0 +1,18 @@
+[
+	"O_Soldier_HAT_F",
+	"O_soldier_AR_F",
+	"O_HeavyGunner_F",
+	"O_Soldier_GL_F",
+	"O_Sharpshooter_F",
+	"O_soldier_AT_F",
+	"O_soldier_AA_F",
+	"O_medic_F",
+	"O_soldier_M_F",
+	"O_Soldier_A_F",
+	"O_soldier_UAV_F",
+	"O_V_Soldier_LAT_hex_F",
+	"O_V_Soldier_JTAC_hex_F",
+	"O_V_Soldier_M_hex_F",
+	"O_V_Soldier_Exp_hex_F",
+	"O_engineer_F"
+]

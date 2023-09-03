@@ -1,0 +1,10 @@
+[
+	"B_UGV_01_rcws_F",
+	"B_T_UAV_03_dynamicLoadout_F",
+	"B_Heli_Light_01_dynamicLoadout_F",
+	"B_APC_Wheeled_03_cannon_F",
+	"I_G_Offroad_01_AT_F",
+	"I_G_Offroad_01_repair_F",
+	"I_G_Van_01_fuel_F",
+	"I_G_Offroad_01_armed_F"
+];

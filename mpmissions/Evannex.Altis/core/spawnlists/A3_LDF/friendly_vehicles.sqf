@@ -1,0 +1,16 @@
+[
+	"I_E_APC_tracked_03_cannon_F",
+	"I_E_APC_tracked_03_cannon_F",
+	"I_E_APC_tracked_03_cannon_F",
+	"I_E_APC_tracked_03_cannon_F",
+	"I_E_APC_tracked_03_cannon_F",
+	"I_E_APC_tracked_03_cannon_F",
+	"I_E_APC_tracked_03_cannon_F",
+	"I_E_APC_tracked_03_cannon_F",
+	"I_E_Truck_02_Ammo_F",
+	"I_E_Truck_02_fuel_F",
+	"I_E_Truck_02_Medical_F",
+	"I_E_Truck_02_Box_F",
+	"I_E_UGV_01_rcws_F",
+	"I_E_Heli_light_03_dynamicLoadout_F"
+];

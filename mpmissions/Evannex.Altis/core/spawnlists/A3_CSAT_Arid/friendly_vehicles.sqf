@@ -1,0 +1,22 @@
+[
+	"O_APC_Wheeled_02_rcws_F",
+	"O_APC_Wheeled_02_rcws_v2_F",
+	"O_UGV_01_F",
+	"O_APC_Tracked_02_AA_F",
+	"O_UGV_01_rcws_F",
+	"O_Truck_03_repair_F",
+	"O_Truck_03_ammo_F",
+	"O_Truck_03_fuel_F",
+	"O_Truck_03_medical_F",
+	"O_Heli_Light_02_dynamicLoadout_F",
+	"O_Heli_Attack_02_dynamicLoadout_F",
+	"O_APC_Tracked_02_cannon_F",
+	"O_APC_Tracked_02_AA_F",
+	"O_MBT_02_cannon_F",
+	"O_MRAP_02_hmg_F",
+	"O_MRAP_02_gmg_F",
+	"O_MBT_02_cannon_F",
+	"O_MBT_04_cannon_F",
+	"O_MBT_04_command_F",
+	"O_APC_Tracked_02_cannon_F"
+];

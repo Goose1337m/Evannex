@@ -1,0 +1,11 @@
+[
+	"I_E_Soldier_AR_F",
+	"I_E_Medic_F",
+	"I_E_Engineer_F",
+	"I_E_Soldier_GL_F",
+	"I_E_soldier_M_F",
+	"I_E_Soldier_AT_F",
+	"I_E_Soldier_AA_F",
+	"I_E_Soldier_LAT_F",
+	"I_E_Soldier_LAT2_F"
+]

@@ -1,0 +1,9 @@
+[
+	"O_R_soldier_exp_F",
+	"O_R_medic_F",
+	"O_R_Soldier_AR_F",
+	"O_R_Soldier_GL_F",
+	"O_R_soldier_M_F",
+	"O_R_Soldier_LAT_F",
+	"O_R_JTAC_F"
+]

@@ -1,0 +1,15 @@
+[
+	"O_V_Soldier_LAT_ghex_F",
+	"O_V_Soldier_M_ghex_F",
+	"O_V_Soldier_Exp_ghex_F",
+	"O_T_Soldier_AT_F",
+	"O_T_Soldier_AA_F",
+	"O_T_Soldier_HAT_F",
+	"O_T_Soldier_M_F",
+	"O_T_Engineer_F",
+	"O_T_Medic_F",
+	"O_R_Soldier_AR_F",
+	"O_R_Soldier_GL_F",
+	"O_R_Soldier_LAT_F",
+	"O_R_soldier_M_F"
+]

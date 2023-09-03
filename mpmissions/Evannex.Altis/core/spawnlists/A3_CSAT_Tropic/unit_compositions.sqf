@@ -1,0 +1,9 @@
+[
+	[
+		"O_T_InfSquad",
+		"O_T_InfSquad_Weapons"
+	],
+	[
+		"O_T_ViperTeam"
+	]
+];
