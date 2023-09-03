@@ -1,0 +1,11 @@
+[
+	[
+		"Indep"
+	],
+	[
+		"gm_xx_army"
+	], 
+	[
+		"gm_infantry_80"
+	]
+];

@@ -1,0 +1,12 @@
+[
+	[
+		"gmx_cdf2022_army_infantry_squad_digittsko",
+		"gmx_cdf2022_army_infantry_specops_mcam"
+	],
+	[
+		"gmx_cdf_paramilitary_infantry_squad_ttsko"
+	],
+	[
+		"gmx_cdf_orel_infantry_squad_blu"
+	]
+];

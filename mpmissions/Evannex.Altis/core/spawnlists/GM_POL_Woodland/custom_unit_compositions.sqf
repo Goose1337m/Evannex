@@ -1,0 +1,13 @@
+[
+	[
+		"gm_pl_army_squadleader_akm_80_moro",
+		"gm_pl_army_antiair_akm_9k32m_80_moro",
+		"gm_pl_army_antiair_akm_9k32m_80_moro",
+		"gm_pl_army_antiair_akm_9k32m_80_moro",
+		"gm_pl_army_antitank_assistant_akm_rpg7_80_moro",
+		"gm_pl_army_antitank_akm_fagot_80_moro",
+		"gm_pl_army_antitank_akm_rpg7_80_moro",
+		"gm_pl_army_antitank_akm_rpg7_80_moro",
+		"gm_pl_army_antitank_akm_rpg7_80_moro"
+	]
+];

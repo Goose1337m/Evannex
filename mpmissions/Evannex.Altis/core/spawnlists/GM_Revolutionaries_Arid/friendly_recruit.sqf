@@ -1,0 +1,10 @@
+[
+	"gm_xx_army_antitank_hk53a2_rpg7_80_oli",
+	"gm_xx_army_demolition_mp2a1_80_blk",
+	"gm_xx_army_machinegunner_rpk_80_oli",
+	"gm_xx_army_marksman_svd_80_wdl",
+	"gm_xx_army_medic_01_mpikms72_m84",
+	"gm_xx_army_engineer_hk33a2_80_brn",
+	"gm_xx_army_rifleman_01_akm_alp",
+	"gm_xx_army_assault_ak74nk_80_wdl"
+]

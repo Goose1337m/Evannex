@@ -1,0 +1,22 @@
+[
+	"gmx_cdf_zsu234v1_wdl",
+	"gmx_cdf_bmp1sp2_wdl",
+	"gmx_cdf_brdm2_wdl",
+	"gmx_cdf_btr60pb_wdl",
+	"gmx_cdf_uaz469_dshkm_wdl",
+	"gmx_cdf_uaz469_spg9_wdl",
+	"gmx_cdf_ural375d_refuel_wdl",
+	"gmx_cdf_ural375d_medic_wdl",
+	"gmx_cdf_ural4320_reammo_wdl",
+	"gmx_cdf_ural4320_repair_wdl",
+	"gmx_cdf_pt76b_wdl",
+	"gmx_cdf_t55_wdl",
+	"gmx_cdf_t55a_wdl",
+	"gmx_cdf_t55ak_wdl",
+	"gmx_cdf_t55am2_wdl",
+	"gmx_cdf_t55am2b_wdl",
+	"gmx_cdf_mi2urn_wdl",
+	"gmx_cdf_mi2urpg_wdl",
+	"gmx_cdf_mi2urs_wdl",
+	"gmx_cdf_mi2us_wdl"
+];

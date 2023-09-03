@@ -1,0 +1,12 @@
+[
+	"gm_gc_army_uaz469_spg9_des",
+	"gm_gc_army_uaz469_dshkm_des",
+	"gm_gc_army_btr60pb_des",
+	"gm_gc_army_brdm2rkh_des",
+	"gm_gc_army_btr60pa_dshkm_des",
+	"gm_gc_army_bmp1sp2_des",
+	"gm_gc_army_t55_des",
+	"gm_gc_army_pt76b_des",
+	"gm_gc_army_zsu234v1_des",
+	"gm_gc_airforce_mi2urn"
+];

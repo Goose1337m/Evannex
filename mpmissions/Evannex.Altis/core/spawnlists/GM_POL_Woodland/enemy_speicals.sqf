@@ -1,0 +1,22 @@
+[
+	"gm_pl_army_brdm2_oli",
+	"gm_pl_army_ot64a_oli",
+	"gm_pl_army_bmp1sp2_oli",
+	"gm_pl_army_pt76b_oli",
+	"gm_pl_army_t55_oli",
+	"gm_pl_army_t55a_oli",
+	"gm_pl_army_t55ak_oli",
+	"gm_pl_army_zsu234v1_oli",
+	"gm_pl_army_uaz469_dshkm_oli",
+	"gm_pl_army_ural375d_medic_oli",
+	"gm_pl_army_ural375d_refuel_oli",
+	"gm_pl_army_ural4320_reammo_oli",
+	"gm_pl_army_ural4320_repair_oli",
+	"gm_pl_airforce_mi2urn_oli",
+	"gm_pl_airforce_mi2urp_oli",
+	"gm_pl_airforce_mi2urpg_oli",
+	"gm_pl_airforce_mi2urs_oli",
+	"gm_pl_airforce_mi2us_oli",
+	"gm_pl_army_dshkm_aatripod",
+	"gm_pl_army_fagot_launcher_tripod"
+];

@@ -1,0 +1,23 @@
+[
+	"gmx_aaf_leopard1a5_wdl",
+	"gmx_aaf_leopard1a3_wdl",
+	"gmx_aaf_leopard1a1a1_wdl",
+	"gmx_aaf_bo105p_pah1_wdl",
+	"gmx_aaf_bo105p_pah1a1_wdl",
+	"gmx_aaf_u1300l_repair_wdl",
+	"gmx_aaf_u1300l_medic_wdl",
+	"gmx_aaf_kat1_451_reammo_wdl",
+	"gmx_aaf_iltis_milan_wdl",
+	"gmx_aaf_fuchsa0_reconnaissance_wdl",
+	"gmx_aaf_marder1a2_wdl",
+	"gmx_aaf_marder1a1a_wdl",
+	"gmx_aaf_marder1a1plus_wdl",
+	"gmx_aaf_luchsa1_wdl",
+	"gmx_aaf_luchsa2_wdl",
+	"gmx_aaf_m113a2dk_wdl",
+	"gmx_aaf_m113a1g_medic_wdl",
+	"gmx_aaf_m113a1g_apc_milan_wdl",
+	"gmx_aaf_gepard1a1_wdl",
+	"I_Plane_Fighter_03_dynamicLoadout_F",
+	"I_Boat_Armed_01_minigun_F"
+];

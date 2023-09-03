@@ -1,0 +1,12 @@
+[
+	"gm_gc_army_uaz469_spg9_wdl",
+	"gm_gc_army_uaz469_dshkm_wdl",
+	"gm_gc_army_btr60pb_wdl",
+	"gm_gc_army_brdm2rkh_wdl",
+	"gm_gc_army_btr60pa_dshkm_wdl",
+	"gm_gc_army_bmp1sp2_wdl",
+	"gm_gc_army_t55_wdl",
+	"gm_gc_army_pt76b_wdl",
+	"gm_gc_army_zsu234v1_wdl",
+	"gm_gc_airforce_mi2urn"
+];

@@ -1,0 +1,11 @@
+[
+	"gmx_cdf_army_antitank_ak74_rpg7_ttsko",
+	"gmx_cdf_army_antiair_ak74_9k32m_ttsko",
+	"gmx_cdf_army_marksman_svd_ttsko",
+	"gmx_cdf_army_machinegunner_pk_ttsko",
+	"gmx_cdf_army_rifleman_ak74_ttsko",
+	"gmx_cdf_army_demolition_ak74_ttsko",
+	"gmx_cdf_army_medic_ak74_ttsko",
+	"gmx_cdf_army_machinegunner_rpk_ttsko",
+	"gmx_cdf_army_machinegunner_assistant_ak74_pk_ttsko"
+]
