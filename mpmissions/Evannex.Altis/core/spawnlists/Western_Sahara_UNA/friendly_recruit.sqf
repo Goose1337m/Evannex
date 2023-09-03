@@ -1,0 +1,10 @@
+[
+	"B_UN_Soldier_lite_lxWS",
+	"B_UN_soldier_AR_lxWS",
+	"B_UN_medic_lxWS",
+	"B_UN_engineer_lxWS",
+	"B_UN_Soldier_GL_lxWS",
+	"B_UN_HeavyGunner_lxWS",
+	"B_UN_soldier_repair_lxWS",
+	"B_UN_Helipilot_lxWS"
+]

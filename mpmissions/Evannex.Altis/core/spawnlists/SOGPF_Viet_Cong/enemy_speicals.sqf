@@ -1,0 +1,23 @@
+[
+	"vn_o_armor_m41_02_vcmf",
+	"vn_o_armor_ot54_01_vcmf",
+	"vn_o_armor_t54b_01_vcmf",
+	"vn_o_wheeled_btr40_mg_04_vcmf",
+	"vn_o_wheeled_btr40_mg_03_vcmf",
+	"vn_o_wheeled_btr40_mg_06_vcmf",
+	"vn_o_wheeled_btr40_mg_05_vcmf",
+	"vn_o_wheeled_btr40_02_vcmf",
+	"vn_o_wheeled_z157_ammo_vcmf",
+	"vn_o_wheeled_z157_mg_01_vcmf",
+	"vn_o_wheeled_z157_fuel_vcmf",
+	"vn_o_wheeled_z157_mg_02_vcmf",
+	"vn_o_wheeled_z157_repair_vcmf",
+	"vn_o_air_mi2_04_01",
+	"vn_o_air_mi2_03_03",
+	"vn_o_vc_static_zgu1_01",
+	"vn_o_vc_static_dp28_high",
+	"vn_o_vc_static_dshkm_high_01",
+	"vn_o_vc_static_type56rr",
+	"vn_o_vc_static_rpd_high",
+	"vn_o_boat_01_mg_00"
+];

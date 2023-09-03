@@ -1,0 +1,11 @@
+[
+	"B_Tura_defector_lxWS",
+	"B_Tura_deserter_lxWS",
+	"B_Tura_enforcer_lxWS",
+	"B_Tura_hireling_lxWS",
+	"B_Tura_HeavyGunner_lxWS",
+	"B_Tura_scout_lxWS",
+	"B_Tura_medic2_lxWS",
+	"B_Tura_medic2_lxWS",
+	"B_Tura_watcher_lxWS"
+]

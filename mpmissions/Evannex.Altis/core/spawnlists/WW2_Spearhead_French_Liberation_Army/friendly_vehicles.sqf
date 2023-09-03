@@ -1,0 +1,13 @@
+[
+	"SPE_FR_M16_Halftrack",
+	"SPE_FR_M3_Halftrack",
+	"SPE_FR_M3_Halftrack_Repair",
+	"SPE_FR_M3_Halftrack_Fuel",
+	"SPE_FR_M3_Halftrack_Ammo",
+	"SPE_FR_M3_Halftrack_Ambulance",
+	"SPE_FR_M10",
+	"SPE_FR_M4A0_75_Early",
+	"SPE_FR_M4A0_75_mid",
+	"SPE_FR_M4A1_76",
+	"SPE_FR_M4A1_75"
+];

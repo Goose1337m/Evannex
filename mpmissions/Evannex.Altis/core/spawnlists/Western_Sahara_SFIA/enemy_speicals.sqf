@@ -1,0 +1,19 @@
+[
+	"O_SFIA_Truck_02_aa_lxWS",
+	"O_SFIA_APC_Tracked_02_AA_lxWS",
+	"O_SFIA_APC_Tracked_02_cannon_lxWS",
+	"O_SFIA_APC_Tracked_02_30mm_lxWS",
+	"O_SFIA_APC_Wheeled_02_hmg_lxWS",
+	"O_SFIA_Offroad_AT_lxWS",
+	"O_SFIA_Offroad_armed_lxWS",
+	"O_SFIA_Truck_02_fuel_lxWS",
+	"O_SFIA_Truck_02_box_lxWS",
+	"O_SFIA_Truck_02_Ammo_lxWS",
+	"O_SFIA_MBT_02_cannon_lxWS",
+	"O_SFIA_Heli_Attack_02_dynamicLoadout_lxWS",
+	"O_SAM_System_04_F",
+	"O_SFIA_ZU23_lxWS",
+	"O_Plane_CAS_02_dynamicLoadout_F",
+	"O_Plane_Fighter_02_F",
+	"O_UAV_02_lxWS"
+];

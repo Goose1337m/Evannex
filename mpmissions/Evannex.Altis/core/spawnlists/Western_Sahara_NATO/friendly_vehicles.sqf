@@ -1,0 +1,20 @@
+[
+	"B_D_APC_Tracked_01_aa_lxWS",
+	"B_D_APC_Wheeled_01_cannon_lxWS",
+	"B_D_APC_Wheeled_01_atgm_lxWS",
+	"B_D_APC_Wheeled_01_command_lxWS",
+	"B_D_APC_Tracked_01_CRV_lxWS",
+	"B_D_APC_Tracked_01_rcws_lxWS",
+	"B_D_Truck_01_ammo_lxWS",
+	"B_D_Truck_01_fuel_lxWS",
+	"B_AFV_Wheeled_01_up_cannon_F",
+	"B_AFV_Wheeled_01_cannon_F",
+	"B_D_Truck_01_Repair_lxWS",
+	"B_D_MRAP_01_gmg_lxWS",
+	"B_D_MRAP_01_hmg_lxWS",
+	"B_D_UGV_01_rcws_lxWS",
+	"B_D_Heli_Light_01_dynamicLoadout_lxWS",
+	"B_D_Heli_Attack_01_dynamicLoadout_lxWS",
+	"B_D_MBT_01_cannon_lxWS",
+	"B_D_MBT_01_TUSK_lxWS"
+];

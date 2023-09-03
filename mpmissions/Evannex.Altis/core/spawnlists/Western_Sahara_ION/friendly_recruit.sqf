@@ -1,0 +1,11 @@
+[
+	"B_ION_Helipilot_lxWS",
+	"B_ION_soldier_AR_lxWS",
+	"B_ION_medic_lxWS",
+	"B_ION_Soldier_GL_lxWS",
+	"B_ION_marksman_lxWS",
+	"B_ION_shot_lxWS",
+	"B_ION_Soldier_SG_lxWS",
+	"B_ION_Soldier_lxWS",
+	"B_ION_crew_lxWS"
+]
