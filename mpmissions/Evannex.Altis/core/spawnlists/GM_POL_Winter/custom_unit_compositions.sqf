@@ -1,0 +1,13 @@
+[
+	[
+		"gm_pl_army_squadleader_akm_80_win",
+		"gm_pl_army_antiair_akm_9k32m_80_win",
+		"gm_pl_army_antiair_akm_9k32m_80_win",
+		"gm_pl_army_antiair_akm_9k32m_80_win",
+		"gm_pl_army_machinegunner_pk_80_win",
+		"gm_pl_army_antitank_akm_fagot_80_win",
+		"gm_pl_army_antitank_akm_rpg7_80_win",
+		"gm_pl_army_antitank_akm_rpg7_80_win",
+		"gm_pl_army_antitank_akm_rpg7_80_win"
+	]
+];

@@ -1,0 +1,12 @@
+[
+	"gm_dk_army_Leopard1a3_un",
+	"gm_dk_army_m113a2dk_un",
+	"gm_dk_army_bpz2a0_un",
+	"gm_dk_army_m113a1dk_apc_un",
+	"gm_dk_army_m113a1dk_engineer_un",
+	"gm_dk_army_m113a1dk_medic_un_rc",
+	"gm_dk_army_u1300l_container_un",
+	"gm_ge_army_bo105p_pah1_un",
+	"gm_ge_army_bo105p_pah1a1_un",
+	"gm_dk_army_mg3_aatripod"
+];

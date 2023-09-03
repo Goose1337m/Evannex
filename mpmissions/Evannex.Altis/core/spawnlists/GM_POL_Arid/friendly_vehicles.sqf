@@ -1,0 +1,20 @@
+[
+	"gm_pl_army_brdm2_ols",
+	"gm_pl_army_ot64a_ols",
+	"gm_pl_army_bmp1sp2_ols",
+	"gm_pl_army_pt76b_ols",
+	"gm_pl_army_t55_ols",
+	"gm_pl_army_t55a_ols",
+	"gm_pl_army_t55ak_ols",
+	"gm_pl_army_zsu234v1_ols",
+	"gm_pl_army_uaz469_dshkm_ols",
+	"gm_pl_army_ural375d_medic_ols",
+	"gm_pl_army_ural375d_refuel_ols",
+	"gm_pl_army_ural4320_reammo_ols",
+	"gm_pl_army_ural4320_repair_ols",
+	"gm_pl_airforce_mi2urn_flp",
+	"gm_pl_airforce_mi2urp_flp",
+	"gm_pl_airforce_mi2urpg_flp",
+	"gm_pl_airforce_mi2urs_flp",
+	"gm_pl_airforce_mi2us_flp"
+];

@@ -1,0 +1,11 @@
+[
+	"gm_dk_army_Leopard1a3_wdl",
+	"gm_dk_army_m113a2dk_wdl",
+	"gm_dk_army_bpz2a0_wdl",
+	"gm_dk_army_m113a1dk_apc_wdl",
+	"gm_dk_army_m113a1dk_engineer_wdl",
+	"gm_dk_army_m113a1dk_medic_wdl_rc",
+	"gm_ge_army_bo105p_pah1_oli",
+	"gm_ge_army_bo105p_pah1a1_oli",
+	"gm_dk_army_u1300l_container_wdl"
+];

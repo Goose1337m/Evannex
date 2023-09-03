@@ -1,0 +1,11 @@
+[
+	"gm_pl_army_antiair_akm_9k32m_80_win",
+	"gm_pl_army_antitank_akm_rpg7_80_win",
+	"gm_pl_army_grenadier_akm_pallad_80_win",
+	"gm_pl_army_marksman_svd_80_win",
+	"gm_pl_army_grenadier_pallad_d_80_win",
+	"gm_pl_army_medic_akm_80_win",
+	"gm_pl_army_machinegunner_rpk_80_win",
+	"gm_pl_army_machinegunner_pk_80_win",
+	"gm_pl_army_engineer_akm_80_win"
+]

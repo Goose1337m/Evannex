@@ -1,0 +1,13 @@
+[
+	[
+		"gm_gc_army_squadleader_mpiak74n_80_str",
+		"gm_gc_army_antiair_mpiak74n_9k32m_80_str",
+		"gm_gc_army_antiair_mpiak74n_9k32m_80_str",
+		"gm_gc_army_antiair_mpiak74n_9k32m_80_str",
+		"gm_gc_army_antitank_assistant_mpiak74n_rpg7_80_str",
+		"gm_gc_army_antitank_mpiak74n_fagot_80_str",
+		"gm_gc_army_antitank_mpiak74n_rpg7_80_str",
+		"gm_gc_army_antitank_mpiak74n_rpg7_80_str",
+		"gm_gc_army_antitank_mpiak74n_rpg7_80_str"
+	]
+];
