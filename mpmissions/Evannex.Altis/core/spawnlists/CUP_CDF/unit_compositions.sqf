@@ -1,0 +1,15 @@
+[
+	[
+		"CUP_B_CDFInfSection_AA_FST",
+		"CUP_B_CDFInfSection_AT_FST",
+		"CUP_B_CDFInfSection_MG_FST",
+		"CUP_B_CDFInfSquad_Weapons_FST",
+		"CUP_B_CDFSniperTeam_FST"
+	],
+	[
+		"CUP_B_CDFInfSection_AA_MNT",
+		"CUP_B_CDFInfSection_AT_MNT",
+		"CUP_B_CDFInfSection_MG_MNT",
+		"CUP_B_CDFInfSquad_MNT"
+	]
+];

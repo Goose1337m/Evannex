@@ -1,0 +1,16 @@
+[
+	[
+		"O_InfTeam_AT_Heavy",
+		"InfAssault"
+	],
+	[
+		"CUP_O_TK_SpecialPurposeSquad",
+		"CUP_O_TK_InfantrySectionAT",
+		"CUP_O_TK_InfantrySquad"
+	],
+	[
+		"CUP_O_TK_MILITIA_AATeam",
+		"CUP_O_TK_MILITIA_Demosquad",
+		"CUP_O_TK_MILITIA_Group"
+	]
+];

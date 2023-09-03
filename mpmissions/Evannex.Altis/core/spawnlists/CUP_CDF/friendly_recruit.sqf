@@ -1,0 +1,10 @@
+[
+	"CUP_B_CDF_Soldier_Marksman_FST",
+	"CUP_B_CDF_Soldier_LAT_FST",
+	"CUP_B_CDF_Soldier_MG_FST",
+	"CUP_B_CDF_Soldier_AA_FST",
+	"CUP_B_CDF_Engineer_FST",
+	"CUP_B_CDF_Soldier_AR_FST",
+	"CUP_B_CDF_Sniper_FST",
+	"CUP_B_CDF_Soldier_RPG18_FST"
+]

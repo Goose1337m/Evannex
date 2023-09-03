@@ -1,0 +1,10 @@
+[
+	"CUP_I_RACS_Soldier_AA",
+	"CUP_I_RACS_Soldier_HAT",
+	"CUP_I_RACS_Soldier_AA_Mech",
+	"CUP_I_RACS_M",
+	"CUP_I_RACS_MMG",
+	"CUP_I_RACS_Soldier_HAT_Mech",
+	"CUP_I_RACS_M_Mech",
+	"CUP_I_RACS_MMG_Mech"
+]

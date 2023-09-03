@@ -1,0 +1,12 @@
+[
+	[
+		"US85_infSqd"
+	],
+	[
+		"US85_sfSqd"
+	],
+	[
+		"US85_abDtmt",
+		"US85_abSqd"
+	]
+];

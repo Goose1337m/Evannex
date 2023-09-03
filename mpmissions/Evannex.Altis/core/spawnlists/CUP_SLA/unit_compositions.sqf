@@ -1,0 +1,23 @@
+[
+	[
+		"CUP_O_SLA_InfantrySection",
+		"CUP_O_SLA_InfantrySectionAA",
+		"CUP_O_SLA_InfantrySectionAT",
+		"CUP_O_SLA_InfantrySectionMG",
+		"CUP_O_SLA_InfantrySquad"
+	],
+	[
+		"CUP_O_SLA_InfantrySection_Desert",
+		"CUP_O_SLA_InfantrySectionAA_Desert",
+		"CUP_O_SLA_InfantrySectionAT_Desert",
+		"CUP_O_SLA_InfantrySectionMG_Desert",
+		"CUP_O_SLA_SniperTeam_Desert"
+	],
+	[
+		"CUP_O_SLA_InfantrySection_Urban",
+		"CUP_O_SLA_InfantrySectionAA_Urban",
+		"CUP_O_SLA_InfantrySectionAT_Urban",
+		"CUP_O_SLA_InfantrySectionMG_Urban",
+		"CUP_O_SLA_InfantrySquad_Urban"
+	]
+];

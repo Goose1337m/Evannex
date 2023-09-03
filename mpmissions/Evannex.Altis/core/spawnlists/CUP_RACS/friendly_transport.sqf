@@ -1,0 +1,6 @@
+[
+	"CUP_I_SA330_Puma_HC2_RACS",
+	"CUP_I_UH1H_Armed_RACS",
+	"CUP_I_UH60L_RACS",
+	"CUP_I_CH47F_RACS"
+];

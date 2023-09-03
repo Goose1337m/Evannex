@@ -1,0 +1,24 @@
+[
+	[
+		"CUP_I_RACS_InfantrySection",
+		"CUP_I_RACS_InfantrySectionAA",
+		"CUP_I_RACS_InfantrySectionAT",
+		"CUP_I_RACS_InfantrySectionMG",
+		"CUP_I_RACS_RoyalCommandos"
+	],
+	[
+		"CUP_I_RACS_InfantrySection_Mech",
+		"CUP_I_RACS_InfantrySectionAA_Mech",
+		"CUP_I_RACS_InfantrySectionAT_Mech",
+		"CUP_I_RACS_InfantrySectionMG_Mech",
+		"CUP_I_RACS_InfantrySquad_Mech",
+		"CUP_I_RACS_SniperTeam_Mech"
+	],
+	[
+		"CUP_I_RACS_InfantrySection_Urban",
+		"CUP_I_RACS_InfantrySectionAA_Urban",
+		"CUP_I_RACS_InfantrySectionAT_Urban",
+		"CUP_I_RACS_InfantrySectionMG_Urban",
+		"CUP_I_RACS_InfantrySquad_Urban"
+	]
+];

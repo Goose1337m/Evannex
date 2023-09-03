@@ -1,0 +1,10 @@
+[
+	"US85_mcM47",
+	"US85_mcCprs",
+	"US85_mcFIM92",
+	"US85_mcM60",
+	"US85_mcM136",
+	"US85_mcSMAW",
+	"US85_svc",
+	"US85_ptM136"
+]

@@ -1,0 +1,5 @@
+[
+	"CUP_O_2S6M_RU",
+	"CUP_O_ZU23_TK",
+	"CUP_O_ZSU23_TK"
+];

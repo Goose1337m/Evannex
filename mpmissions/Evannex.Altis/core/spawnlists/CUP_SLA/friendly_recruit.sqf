@@ -1,0 +1,10 @@
+[
+	"CUP_O_sla_Soldier_AA_desert",
+	"CUP_O_sla_Soldier_HAT_desert",
+	"CUP_O_sla_Soldier_MG_desert",
+	"CUP_O_sla_Soldier_AKS_74_GOSHAWK_desert",
+	"CUP_O_sla_Soldier_AA",
+	"CUP_O_sla_Soldier_HAT",
+	"CUP_O_sla_Soldier_MG",
+	"CUP_O_sla_Soldier_AT"
+]

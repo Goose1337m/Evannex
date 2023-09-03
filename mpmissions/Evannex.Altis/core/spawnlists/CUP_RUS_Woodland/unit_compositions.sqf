@@ -1,0 +1,35 @@
+[
+	[
+		"InfTeam_AT",
+		"InfTeam_AA",
+		"InfSquad_Weapons",
+		"InfAssault"
+	],
+	[
+		"InfAssault",
+		"InfSquad_Weapons",
+		"InfTeam_AA",
+		"InfTeam_AT"
+	],
+	[
+		"InfAssault",
+		"InfSquad_Weapons",
+		"InfTeam_AA",
+		"InfTeam_AT",
+		"O_InfTeam_AT_Heavy"
+	],
+	[
+		"CUP_O_RU_InfSection_AA_EMR",
+		"CUP_O_RU_InfSection_AT_EMR",
+		"CUP_O_RU_InfSection_MG_EMR",
+		"CUP_O_RU_SniperTeam_EMR",
+		"CUP_O_RU_InfSection_MG_EMR"
+	],
+	[
+		"InfAssault",
+		"InfSquad_Weapons",
+		"InfTeam",
+		"InfTeam_AA",
+		"InfTeam_AT"
+	]
+];
