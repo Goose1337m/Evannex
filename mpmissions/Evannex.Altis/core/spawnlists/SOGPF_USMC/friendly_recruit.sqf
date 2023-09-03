@@ -1,0 +1,13 @@
+[
+	"vn_b_men_usmc_70_07",
+	"vn_b_men_usmc_70_03",
+	"vn_b_men_usmc_70_04",
+	"vn_b_men_usmc_70_19",
+	"vn_b_men_usmc_70_11",
+	"vn_b_men_usmc_70_12",
+	"vn_b_men_usmc_70_06",
+	"vn_b_men_usmc_70_08",
+	"vn_b_men_usmc_70_20",
+	"vn_b_men_usmc_70_18",
+	"vn_b_men_usmc_70_10"
+];

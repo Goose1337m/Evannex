@@ -1,0 +1,16 @@
+[
+	"vn_b_men_army_03",
+	"vn_b_men_army_15",
+	"vn_b_men_army_20",
+	"vn_b_men_army_11",
+	"vn_b_men_army_12",
+	"vn_b_men_sog_14",
+	"vn_b_men_sog_12",
+	"vn_b_men_cidg_11",
+	"vn_b_men_sf_21",
+	"vn_b_men_army_04",
+	"vn_b_men_sf_18",
+	"vn_b_men_sog_11",
+	"vn_b_men_lrrp_03",
+	"vn_b_men_cidg_08"
+]

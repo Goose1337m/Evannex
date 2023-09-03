@@ -1,0 +1,28 @@
+[
+	[
+		"vn_b_group_men_army_04",
+		"vn_b_group_men_army_08",
+		"vn_b_group_men_army_01"
+	],
+	[
+		"vn_b_group_men_lrrp_01"
+	],
+	[
+		"vn_b_group_men_sf_04",
+		"vn_b_group_men_sf_01",
+		"vn_b_group_men_sf_02",
+		"vn_b_group_men_sf_05"
+	],
+	[
+		"vn_b_group_men_aus_army_66_03",
+		"vn_b_group_men_aus_army_66_05",
+		"vn_b_group_men_aus_army_66_01",
+		"vn_b_group_men_aus_army_66_02"
+	],
+	[
+		"vn_b_group_men_nz_army_66_01",
+		"vn_b_group_men_nz_army_66_02",
+		"vn_b_group_men_nz_army_66_03",
+		"vn_b_group_men_nz_army_66_06"
+	]
+];

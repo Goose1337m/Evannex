@@ -1,0 +1,12 @@
+[
+	[
+		"vn_b_men_seal_01",
+		"vn_b_men_seal_13",
+		"vn_b_men_seal_17",
+		"vn_b_men_seal_22",
+		"vn_b_men_seal_22",
+		"vn_b_men_seal_40",
+		"vn_b_men_seal_39",
+		"vn_b_men_seal_37"
+	]
+];

@@ -1,0 +1,14 @@
+[
+	"vn_o_air_mi2_04_01",
+	"vn_o_armor_m113_acav_02_kr",
+	"vn_o_armor_m113_acav_01_kr",
+	"vn_o_armor_m113_acav_06_kr",
+	"vn_o_armor_m113_acav_03_kr",
+	"vn_o_armor_m113_01_kr",
+	"vn_o_wheeled_btr40_mg_04_kr",
+	"vn_o_wheeled_z157_mg_01_kr",
+	"vn_o_wheeled_z157_ammo_kr",
+	"vn_o_wheeled_z157_fuel_kr",
+	"vn_o_wheeled_z157_repair_kr",
+	"vn_o_wheeled_btr40_02_kr"
+];

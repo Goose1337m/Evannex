@@ -1,0 +1,18 @@
+[
+	"vn_i_men_fank_70_20",
+	"vn_i_men_fank_70_21",
+	"vn_i_men_fank_70_20",
+	"vn_i_men_fank_70_10",
+	"vn_i_men_fank_70_12",
+	"vn_i_men_fank_70_06",
+	"vn_i_men_fank_70_11",
+	"vn_i_men_fank_70_03",
+	"vn_i_men_fank_71_12",
+	"vn_i_men_fank_71_22",
+	"vn_i_men_fank_71_06",
+	"vn_i_men_fank_71_10",
+	"vn_i_men_fank_71_11",
+	"vn_i_men_fank_71_07",
+	"vn_i_men_fank_71_20",
+	"vn_i_men_fank_71_05"
+];

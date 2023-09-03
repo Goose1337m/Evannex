@@ -1,0 +1,12 @@
+[
+	[
+		"vn_o_group_men_kr_70_01",
+		"vn_o_group_men_kr_70_02",
+		"vn_o_group_men_kr_70_06"
+	],
+	[
+		"vn_o_group_men_kr_75_01",
+		"vn_o_group_men_kr_75_02",
+		"vn_o_group_men_kr_75_06"
+	]
+];

@@ -1,0 +1,16 @@
+[
+	"vn_i_armor_m113_acav_01",
+	"vn_i_armor_m113_acav_04",
+	"vn_i_armor_m113_acav_05",
+	"vn_i_armor_m132_01",
+	"vn_i_wheeled_m151_mg_01",
+	"vn_i_wheeled_m54_ammo",
+	"vn_i_wheeled_m54_fuel",
+	"vn_i_wheeled_m54_repair",
+	"vn_i_air_uh1c_02_01",
+	"vn_i_air_uh1c_01_01",
+	"vn_i_armor_m41_01",
+	"vn_i_armor_m48_01_01",
+	"vn_i_armor_m67_01_01",
+	"vn_i_armor_type63_01"
+];

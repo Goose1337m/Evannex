@@ -1,0 +1,9 @@
+[
+	"vn_o_air_mig19_at",
+	"vn_o_air_mig19_mr",
+	"vn_o_air_mig19_cas",
+	"vn_o_air_mig19_cap",
+	"vn_o_air_mig19_gun",
+	"vn_o_air_mig19_hbmb",
+	"vn_o_air_mig19_bmb"
+];

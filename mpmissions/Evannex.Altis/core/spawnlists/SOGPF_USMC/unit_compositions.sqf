@@ -1,0 +1,10 @@
+[
+	[
+		"vn_b_group_men_usmc_68_02",
+		"vn_b_group_men_usmc_68_01"
+	],
+	[
+		"vn_b_group_men_usmc_70_01",
+		"vn_b_group_men_usmc_70_02"
+	]
+];

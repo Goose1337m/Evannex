@@ -1,0 +1,23 @@
+[
+	[
+		"West",
+		"West",
+		"West",
+		"West",
+		"West"
+	],
+	[
+		"VN_MACV",
+		"VN_MACV",
+		"VN_MACV",
+		"VN_AUS",
+		"VN_NZ"
+	], 
+	[
+		"vn_b_group_men_army", // This aligns with the unit compositions. Since this is index 0 it will use index 0 from the other file.
+		"vn_b_group_men_lrrp",
+		"vn_b_group_men_sf",
+		"vn_b_group_men_aus_army_66",
+		"vn_b_group_men_nz_army_66"
+	]
+]

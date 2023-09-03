@@ -1,0 +1,19 @@
+[
+	"vn_o_air_mi2_04_01",
+	"vn_o_armor_m113_acav_02_kr",
+	"vn_o_armor_m113_acav_01_kr",
+	"vn_o_armor_m113_acav_06_kr",
+	"vn_o_armor_m113_acav_03_kr",
+	"vn_o_armor_m113_01_kr",
+	"vn_o_wheeled_btr40_mg_04_kr",
+	"vn_o_wheeled_z157_mg_01_kr",
+	"vn_o_wheeled_z157_ammo_kr",
+	"vn_o_wheeled_z157_fuel_kr",
+	"vn_o_wheeled_z157_repair_kr",
+	"vn_o_wheeled_btr40_02_kr",
+	"vn_o_kr_static_zgu1_01",
+	"vn_o_kr_static_dshkm_high_01",
+	"vn_o_kr_static_type56rr",
+	"vn_o_kr_static_dp28_high",
+	"vn_o_boat_01_mg_00_kr"
+];
